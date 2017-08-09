@@ -24,8 +24,7 @@ namespace AGV_Project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            System.Drawing.Pen myPen;
-            myPen = new System.Drawing.Pen(System.Drawing.Color.Tomato);
+            
         }
     }
 }
