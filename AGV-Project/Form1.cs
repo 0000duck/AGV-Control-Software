@@ -24,7 +24,13 @@ namespace AGV_Project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            Form_Monitoring FormMonitorar = new Form_Monitoring();
+            FormMonitorar.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
